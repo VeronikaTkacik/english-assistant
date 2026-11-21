@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+chat_history.json
+.DS_Store
